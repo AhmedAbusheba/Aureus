@@ -1,0 +1,19 @@
+Initial commit: Aureus Oracle SQL/PL-SQL + Form Builder prototype
+
+- database/schema.sql: tables, constraints, sequences
+- packages/: PKG_AUTH, PKG_GOLD, PKG_PRICE, PKG_TRADING, PKG_ADMIN
+- forms_spec/: Form Builder specification and trigger code
+- test_scripts/: SQL*Plus test scenarios
+
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = team@aureus.local
+	name = Aureus Team
+
+Unnamed repository; edit this file 'description' to name the repository.
+
+ref: refs/heads/master
